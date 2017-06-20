@@ -1,6 +1,6 @@
 package main
 
-//281431280@qq.com
+//281431280
 import (
 	"encoding/json"
 	"fmt"
